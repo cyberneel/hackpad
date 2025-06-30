@@ -1,4 +1,4 @@
-# Orpheuspad
+# CyberPad
 
 Cyberneel Hackpad is a 3x3 key macropad with a rotary encoder, an OLED Display. Uses QMK firmware
 
